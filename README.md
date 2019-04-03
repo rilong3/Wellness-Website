@@ -8,4 +8,8 @@
 <h2> Every body deserves to live healthy!<h2>
   
 
-<h3> Welcome to Neovita Wellness. We are a healthy wellness company focused on lifestyle change through fitness and nutrition. We offer a personalized approach to nutrion (sustainable eating), fitness (functional movement), mindset shifting (goal setting), and athletic performance (speed/agility training).</h3>
+<h3> Welcome to Neovita Wellness. We are a health & wellness company focused on lifestyle change through fitness and nutrition. We offer a personalized approach to nutrion (sustainable eating), fitness (functional movement), mindset shifting (goal setting), and athletic performance (speed/agility training).</h3>
+
+<h4> More Info</h4>
+
+<h5> Getting started </h5>
