@@ -49,6 +49,7 @@
     <li> Neovita Mobile App
   </ul>
   
+  
  <h6> Neovita Wellness </h6> <!-- page 3 -->
  
  <p> The professionals behind the program </p>
@@ -89,3 +90,5 @@
       <li> Phone Number <li>
   <ul>
 
+<h4> Store </h4>
+<a href = "https://vsco.co/rilong" > STORE </a> <!-- Link outside pages -->
